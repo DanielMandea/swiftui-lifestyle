@@ -1,2 +1,3 @@
-# swiftui-lifestyle
-A library of reusable SwiftUI components
+# ReusableComponents
+
+A description of this package.
